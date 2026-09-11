@@ -2,7 +2,7 @@ package number_program;
 
 public class sumofdigit {
 	public static void main(String[] args) {
-		int n = 1234;
+		int n = 12345;
 		int sum = 0;
 		
 		 while (n > 0) {

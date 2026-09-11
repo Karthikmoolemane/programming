@@ -2,7 +2,7 @@ package programming;
 
 public class rev_char_not_numbers {
 	public static void main(String[] args) {
-		String s = "a-b-c-d";
+		String s = "a1b2c3d";
 		char[] ch = s.toCharArray();
 		int i = 0 , j = ch.length-1;
 		while(i<j) {
